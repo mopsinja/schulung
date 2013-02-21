@@ -1,0 +1,41 @@
+commit 6ba174e7757c7ff74c7ccb07d23f54bdd88a4d4d
+Author: Andreas Wittke <wittke@oncampus.de>
+Date:   Thu Feb 21 13:41:37 2013 +0100
+
+    delete mopsi und neues file platt plus aenderung in en
+
+diff --git a/englisch.txt b/englisch.txt
+index d79b6c9..ba5c430 100644
+--- a/englisch.txt
++++ b/englisch.txt
+@@ -1,6 +1,8 @@
+ this is the new world
+ wow
+ 
+-it works
++it doesn't work
+ 
+-there is light
+\ No newline at end of file
++
++
++and e new line
+\ No newline at end of file
+diff --git a/mopsi.txt b/mopsi.txt
+deleted file mode 100644
+index 62b54b4..0000000
+--- a/mopsi.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-huhu das ist text a
+\ No newline at end of file
+diff --git a/plattdeutsch.txt b/plattdeutsch.txt
+new file mode 100644
+index 0000000..45fa125
+--- /dev/null
++++ b/plattdeutsch.txt
+@@ -0,0 +1,4 @@
++Moin Moin
++
++plattes Land
++
